@@ -3,3 +3,5 @@ Phantom Assassin
 Drow Ranger
 Troll Warlord
 Axe
+Invoker
+Razor
